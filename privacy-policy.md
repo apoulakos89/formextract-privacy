@@ -4,7 +4,7 @@
 
 ## 1. Who we are
 
-FormExtract ("the App", "we", "us") is operated by **Andreas Poulakos**
+FormExtract ("the App", "we", "us") is operated by **Angelos Poulakos**
 (sole developer), based in **Athens, Greece**. You can contact us at
 **apoulakos89@gmail.com**.
 
@@ -141,7 +141,7 @@ in-app or by email for material changes.
 
 ## 13. Contact
 
-**Andreas Poulakos**
+**Angelos Poulakos**
 Athens, Greece
 Postal address available upon written request to the contact email below.
 **apoulakos89@gmail.com**
